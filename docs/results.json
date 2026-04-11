@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-10T08:19:44.527260+00:00",
+  "updated_at": "2026-04-11T07:46:35.357463+00:00",
   "keywords": {
     "learning technologist": {
       "jobs": [
@@ -9,13 +9,6 @@
           "location": "",
           "salary": "",
           "url": "https://www.jobs.ac.uk/job/DRA938/learning-technologist"
-        },
-        {
-          "title": "Research AssociateTechnologist in Residence: Ecological Citizens (0.2fte, fixed term until 1.1.27)",
-          "employer": "",
-          "location": "",
-          "salary": "",
-          "url": "https://www.jobs.ac.uk/job/DQT554/research-associatetechnologist-in-residence-ecological-citizens-02fte-fixed-term-until-1127"
         },
         {
           "title": "IT Apprentice (Level 3)",
@@ -32,7 +25,7 @@
           "url": "https://www.jobs.ac.uk/job/DRA310/director-of-educational-development-unit"
         }
       ],
-      "count": 4,
+      "count": 3,
       "search_url": "https://www.jobs.ac.uk/search/?keywords=learning+technologist"
     }
   }
