@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-20T09:05:12.541589+00:00",
+  "updated_at": "2026-04-21T08:51:00.025149+00:00",
   "keywords": {
     "learning technologist": {
       "jobs": [
@@ -11,13 +11,6 @@
           "url": "https://www.jobs.ac.uk/job/DRE621/academic-developer"
         },
         {
-          "title": "IT Apprentice (Level 3)",
-          "employer": "",
-          "location": "",
-          "salary": "",
-          "url": "https://www.jobs.ac.uk/job/DQY834/it-apprentice-level-3"
-        },
-        {
           "title": "Director of Educational Development Unit",
           "employer": "",
           "location": "",
@@ -25,7 +18,7 @@
           "url": "https://www.jobs.ac.uk/job/DRA310/director-of-educational-development-unit"
         }
       ],
-      "count": 3,
+      "count": 2,
       "search_url": "https://www.jobs.ac.uk/search/?keywords=learning+technologist"
     }
   }
