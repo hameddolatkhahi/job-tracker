@@ -1,14 +1,28 @@
 {
-  "updated_at": "2026-05-25T11:06:31.443126+00:00",
+  "updated_at": "2026-05-27T10:52:30.259775+00:00",
   "keywords": {
     "learning technologist": {
       "jobs": [
+        {
+          "title": "Lead Learning Technologist",
+          "employer": "",
+          "location": "",
+          "salary": "",
+          "url": "https://www.jobs.ac.uk/job/DRR244/lead-learning-technologist"
+        },
         {
           "title": "e-Learning Technologist (Assistant)",
           "employer": "",
           "location": "",
           "salary": "",
           "url": "https://www.jobs.ac.uk/job/DRO507/e-learning-technologist-assistant"
+        },
+        {
+          "title": "Educational Technologist",
+          "employer": "",
+          "location": "",
+          "salary": "",
+          "url": "https://www.jobs.ac.uk/job/DRQ795/educational-technologist"
         },
         {
           "title": "Digital Construction Technologist",
@@ -32,7 +46,7 @@
           "url": "https://www.jobs.ac.uk/job/DRA310/director-of-educational-development-unit"
         }
       ],
-      "count": 4,
+      "count": 6,
       "search_url": "https://www.jobs.ac.uk/search/?keywords=learning+technologist"
     }
   }
