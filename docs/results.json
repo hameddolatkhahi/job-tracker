@@ -1,15 +1,8 @@
 {
-  "updated_at": "2026-06-08T11:52:17.331885+00:00",
+  "updated_at": "2026-06-09T10:31:00.466241+00:00",
   "keywords": {
     "learning technologist": {
       "jobs": [
-        {
-          "title": "Lead Learning Technologist",
-          "employer": "",
-          "location": "",
-          "salary": "",
-          "url": "https://www.jobs.ac.uk/job/DRR244/lead-learning-technologist"
-        },
         {
           "title": "Educational Technologist",
           "employer": "",
@@ -39,7 +32,7 @@
           "url": "https://www.jobs.ac.uk/job/DRR842/director-of-educational-development-unit"
         }
       ],
-      "count": 5,
+      "count": 4,
       "search_url": "https://www.jobs.ac.uk/search/?keywords=learning+technologist"
     }
   }
