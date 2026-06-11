@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10T10:52:09.324199+00:00",
+  "updated_at": "2026-06-11T11:19:25.873323+00:00",
   "keywords": {
     "learning technologist": {
       "jobs": [
@@ -9,13 +9,6 @@
           "location": "",
           "salary": "",
           "url": "https://www.jobs.ac.uk/job/DRQ795/educational-technologist"
-        },
-        {
-          "title": "Digital Construction Technologist",
-          "employer": "",
-          "location": "",
-          "salary": "",
-          "url": "https://www.jobs.ac.uk/job/DRQ510/digital-construction-technologist"
         },
         {
           "title": "Lecturer (Teaching) in Finance",
@@ -32,7 +25,7 @@
           "url": "https://www.jobs.ac.uk/job/DRR842/director-educational-development-unit"
         }
       ],
-      "count": 4,
+      "count": 3,
       "search_url": "https://www.jobs.ac.uk/search/?keywords=learning+technologist"
     }
   }
