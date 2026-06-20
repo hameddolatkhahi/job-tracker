@@ -1,15 +1,8 @@
 {
-  "updated_at": "2026-06-19T11:16:41.888896+00:00",
+  "updated_at": "2026-06-20T09:58:55.085717+00:00",
   "keywords": {
     "learning technologist": {
       "jobs": [
-        {
-          "title": "Lecturer (Teaching) in Finance",
-          "employer": "",
-          "location": "",
-          "salary": "",
-          "url": "https://www.jobs.ac.uk/job/DRQ695/lecturer-teaching-in-finance"
-        },
         {
           "title": "Tutor in Organic Synthesis - L6 Module",
           "employer": "",
@@ -25,7 +18,7 @@
           "url": "https://www.jobs.ac.uk/job/DRR842/director-educational-development-unit"
         }
       ],
-      "count": 3,
+      "count": 2,
       "search_url": "https://www.jobs.ac.uk/search/?keywords=learning+technologist"
     }
   }
