@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-06-30T10:29:13.454139+00:00",
+  "updated_at": "2026-07-01T10:38:51.111494+00:00",
   "keywords": {
     "learning technologist": {
       "jobs": [
+        {
+          "title": "Teaching and Learning Technologist",
+          "employer": "",
+          "location": "",
+          "salary": "",
+          "url": "https://www.jobs.ac.uk/job/DSC148/teaching-and-learning-technologist"
+        },
         {
           "title": "Senior Technician - Creative Technologies",
           "employer": "",
@@ -32,7 +39,7 @@
           "url": "https://www.jobs.ac.uk/job/DRR842/director-educational-development-unit"
         }
       ],
-      "count": 4,
+      "count": 5,
       "search_url": "https://www.jobs.ac.uk/search/?keywords=learning+technologist"
     }
   }
