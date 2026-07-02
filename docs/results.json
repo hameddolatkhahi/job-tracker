@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T10:38:51.111494+00:00",
+  "updated_at": "2026-07-02T09:57:09.598381+00:00",
   "keywords": {
     "learning technologist": {
       "jobs": [
@@ -30,16 +30,9 @@
           "location": "",
           "salary": "",
           "url": "https://www.jobs.ac.uk/job/DRY549/tutor-in-organic-synthesis-l6-module"
-        },
-        {
-          "title": "Director, Educational Development Unit",
-          "employer": "",
-          "location": "",
-          "salary": "",
-          "url": "https://www.jobs.ac.uk/job/DRR842/director-educational-development-unit"
         }
       ],
-      "count": 5,
+      "count": 4,
       "search_url": "https://www.jobs.ac.uk/search/?keywords=learning+technologist"
     }
   }
