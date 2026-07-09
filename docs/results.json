@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T09:22:22.519234+00:00",
+  "updated_at": "2026-07-09T10:19:49.365607+00:00",
   "keywords": {
     "learning technologist": {
       "jobs": [
@@ -18,18 +18,18 @@
           "url": "https://www.jobs.ac.uk/job/DSD261/learning-designer-generative-ai-823185"
         },
         {
+          "title": "Production Manager",
+          "employer": "",
+          "location": "",
+          "salary": "",
+          "url": "https://www.jobs.ac.uk/job/DSE571/production-manager"
+        },
+        {
           "title": "Senior Technician - Creative Technologies",
           "employer": "",
           "location": "",
           "salary": "",
           "url": "https://www.jobs.ac.uk/job/DRZ881/senior-technician-creative-technologies"
-        },
-        {
-          "title": "Director for the Research Center for Machine Intelligence (MI)",
-          "employer": "",
-          "location": "",
-          "salary": "",
-          "url": "https://www.jobs.ac.uk/job/DSA408/director-for-the-research-center-for-machine-intelligence-mi"
         },
         {
           "title": "Unestablished Teaching Associate (Fixed Term)",
@@ -39,6 +39,13 @@
           "url": "https://www.jobs.ac.uk/job/DSD235/unestablished-teaching-associate-fixed-term"
         },
         {
+          "title": "Director for the Research Center for Machine Intelligence (MI)",
+          "employer": "",
+          "location": "",
+          "salary": "",
+          "url": "https://www.jobs.ac.uk/job/DSA408/director-for-the-research-center-for-machine-intelligence-mi"
+        },
+        {
           "title": "Tutor in Organic Synthesis - L6 Module",
           "employer": "",
           "location": "",
@@ -46,7 +53,7 @@
           "url": "https://www.jobs.ac.uk/job/DRY549/tutor-in-organic-synthesis-l6-module"
         }
       ],
-      "count": 6,
+      "count": 7,
       "search_url": "https://www.jobs.ac.uk/search/?keywords=learning+technologist"
     }
   }
