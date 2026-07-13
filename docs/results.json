@@ -1,15 +1,8 @@
 {
-  "updated_at": "2026-07-12T08:59:19.648897+00:00",
+  "updated_at": "2026-07-13T10:19:27.994821+00:00",
   "keywords": {
     "learning technologist": {
       "jobs": [
-        {
-          "title": "Teaching and Learning Technologist",
-          "employer": "",
-          "location": "",
-          "salary": "",
-          "url": "https://www.jobs.ac.uk/job/DSC148/teaching-and-learning-technologist"
-        },
         {
           "title": "Learning Designer (Generative AI) (823185)",
           "employer": "",
@@ -23,13 +16,6 @@
           "location": "",
           "salary": "",
           "url": "https://www.jobs.ac.uk/job/DSE571/production-manager"
-        },
-        {
-          "title": "Senior Technician - Creative Technologies",
-          "employer": "",
-          "location": "",
-          "salary": "",
-          "url": "https://www.jobs.ac.uk/job/DRZ881/senior-technician-creative-technologies"
         },
         {
           "title": "Unestablished Teaching Associate (Fixed Term)",
@@ -53,7 +39,7 @@
           "url": "https://www.jobs.ac.uk/job/DRY549/tutor-in-organic-synthesis-l6-module"
         }
       ],
-      "count": 7,
+      "count": 5,
       "search_url": "https://www.jobs.ac.uk/search/?keywords=learning+technologist"
     }
   }
