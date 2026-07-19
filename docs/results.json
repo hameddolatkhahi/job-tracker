@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T08:45:13.980809+00:00",
+  "updated_at": "2026-07-19T09:02:18.362630+00:00",
   "keywords": {
     "learning technologist": {
       "jobs": [
@@ -30,16 +30,9 @@
           "location": "",
           "salary": "",
           "url": "https://www.jobs.ac.uk/job/DSD235/unestablished-teaching-associate-fixed-term"
-        },
-        {
-          "title": "Tutor in Organic Synthesis - L6 Module",
-          "employer": "",
-          "location": "",
-          "salary": "",
-          "url": "https://www.jobs.ac.uk/job/DRY549/tutor-in-organic-synthesis-l6-module"
         }
       ],
-      "count": 5,
+      "count": 4,
       "search_url": "https://www.jobs.ac.uk/search/?keywords=learning+technologist"
     }
   }
