@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T09:23:15.969603+00:00",
+  "updated_at": "2026-07-23T09:21:16.712463+00:00",
   "keywords": {
     "learning technologist": {
       "jobs": [
@@ -9,13 +9,6 @@
           "location": "",
           "salary": "",
           "url": "https://www.jobs.ac.uk/job/DSF885/senior-lecturer-academic-learning-technologist"
-        },
-        {
-          "title": "Production Manager",
-          "employer": "",
-          "location": "",
-          "salary": "",
-          "url": "https://www.jobs.ac.uk/job/DSE571/production-manager"
         },
         {
           "title": "Director for the Research Center for Machine Intelligence (MI)",
@@ -32,7 +25,7 @@
           "url": "https://www.jobs.ac.uk/job/DSD235/unestablished-teaching-associate-fixed-term"
         }
       ],
-      "count": 4,
+      "count": 3,
       "search_url": "https://www.jobs.ac.uk/search/?keywords=learning+technologist"
     }
   }
