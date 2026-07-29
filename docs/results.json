@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T09:32:28.243875+00:00",
+  "updated_at": "2026-07-29T09:33:53.558288+00:00",
   "keywords": {
     "learning technologist": {
       "jobs": [
@@ -16,9 +16,16 @@
           "location": "",
           "salary": "",
           "url": "https://www.jobs.ac.uk/job/DSD235/unestablished-teaching-associate-fixed-term"
+        },
+        {
+          "title": "Lecturer in the Built Environment",
+          "employer": "",
+          "location": "",
+          "salary": "",
+          "url": "https://www.jobs.ac.uk/job/DSK464/lecturer-in-the-built-environment"
         }
       ],
-      "count": 2,
+      "count": 3,
       "search_url": "https://www.jobs.ac.uk/search/?keywords=learning+technologist"
     }
   }
