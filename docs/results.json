@@ -1,15 +1,8 @@
 {
-  "updated_at": "2026-07-30T09:26:31.206443+00:00",
+  "updated_at": "2026-07-31T09:38:48.443133+00:00",
   "keywords": {
     "learning technologist": {
       "jobs": [
-        {
-          "title": "Director for the Research Center for Machine Intelligence (MI)",
-          "employer": "",
-          "location": "",
-          "salary": "",
-          "url": "https://www.jobs.ac.uk/job/DSA408/director-for-the-research-center-for-machine-intelligence-mi"
-        },
         {
           "title": "Unestablished Teaching Associate (Fixed Term)",
           "employer": "",
@@ -25,7 +18,7 @@
           "url": "https://www.jobs.ac.uk/job/DSK464/lecturer-in-the-built-environment"
         }
       ],
-      "count": 3,
+      "count": 2,
       "search_url": "https://www.jobs.ac.uk/search/?keywords=learning+technologist"
     }
   }
