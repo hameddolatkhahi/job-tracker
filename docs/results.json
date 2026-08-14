@@ -1,8 +1,22 @@
 {
-  "updated_at": "2026-08-13T08:15:10.844632+00:00",
+  "updated_at": "2026-08-14T08:09:56.758746+00:00",
   "keywords": {
     "learning technologist": {
       "jobs": [
+        {
+          "title": "Future Network Technologist - FTC",
+          "employer": "",
+          "location": "",
+          "salary": "",
+          "url": "https://www.jobs.ac.uk/job/DSO879/future-network-technologist-ftc"
+        },
+        {
+          "title": "Lecturer in Digital Technology &amp; Design",
+          "employer": "",
+          "location": "",
+          "salary": "",
+          "url": "https://www.jobs.ac.uk/job/DSP375/lecturer-in-digital-technology-and-design"
+        },
         {
           "title": "Unestablished Teaching Associate (Fixed Term)",
           "employer": "",
@@ -25,7 +39,7 @@
           "url": "https://www.jobs.ac.uk/job/DSK464/lecturer-in-the-built-environment"
         }
       ],
-      "count": 3,
+      "count": 5,
       "search_url": "https://www.jobs.ac.uk/search/?keywords=learning+technologist"
     }
   }
