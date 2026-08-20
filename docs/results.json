@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-08-19T07:32:31.944900+00:00",
+  "updated_at": "2026-08-20T07:35:40.873189+00:00",
   "keywords": {
     "learning technologist": {
       "jobs": [
+        {
+          "title": "Learning Technologist &amp; Instructional Designer",
+          "employer": "",
+          "location": "",
+          "salary": "",
+          "url": "https://www.jobs.ac.uk/job/DSQ535/learning-technologist-and-instructional-designer"
+        },
         {
           "title": "Future Network Technologist - FTC",
           "employer": "",
@@ -32,7 +39,7 @@
           "url": "https://www.jobs.ac.uk/job/DSN693/technical-stage-manager-live-performance"
         }
       ],
-      "count": 4,
+      "count": 5,
       "search_url": "https://www.jobs.ac.uk/search/?keywords=learning+technologist"
     }
   }
