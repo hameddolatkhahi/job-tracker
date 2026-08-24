@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T07:28:08.616387+00:00",
+  "updated_at": "2026-08-24T07:52:36.818776+00:00",
   "keywords": {
     "learning technologist": {
       "jobs": [
@@ -25,13 +25,6 @@
           "url": "https://www.jobs.ac.uk/job/DSP375/lecturer-in-digital-technology-and-design"
         },
         {
-          "title": "Unestablished Teaching Associate (Fixed Term)",
-          "employer": "",
-          "location": "",
-          "salary": "",
-          "url": "https://www.jobs.ac.uk/job/DSD235/unestablished-teaching-associate-fixed-term"
-        },
-        {
           "title": "Technical Stage Manager (Live Performance)",
           "employer": "",
           "location": "",
@@ -39,7 +32,7 @@
           "url": "https://www.jobs.ac.uk/job/DSN693/technical-stage-manager-live-performance"
         }
       ],
-      "count": 5,
+      "count": 4,
       "search_url": "https://www.jobs.ac.uk/search/?keywords=learning+technologist"
     }
   }
