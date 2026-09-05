@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T11:55:50.998154+00:00",
+  "updated_at": "2026-09-05T11:05:15.045957+00:00",
   "keywords": {
     "learning technologist": {
       "jobs": [
@@ -9,13 +9,6 @@
           "location": "",
           "salary": "",
           "url": "https://www.jobs.ac.uk/job/DSS475/learning-technologist-technical"
-        },
-        {
-          "title": "Learning Technologist &amp; Instructional Designer",
-          "employer": "",
-          "location": "",
-          "salary": "",
-          "url": "https://www.jobs.ac.uk/job/DSQ535/learning-technologist-and-instructional-designer"
         },
         {
           "title": "Technical Stage Manager (Live Performance)",
@@ -32,7 +25,7 @@
           "url": "https://www.jobs.ac.uk/job/DSV020/lecturer-in-real-estate-12-month-maternity-cover-contract-role"
         }
       ],
-      "count": 4,
+      "count": 3,
       "search_url": "https://www.jobs.ac.uk/search/?keywords=learning+technologist"
     }
   }
