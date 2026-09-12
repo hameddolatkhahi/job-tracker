@@ -1,14 +1,28 @@
 {
-  "updated_at": "2026-09-11T11:58:44.770073+00:00",
+  "updated_at": "2026-09-12T11:25:32.508013+00:00",
   "keywords": {
     "learning technologist": {
       "jobs": [
+        {
+          "title": "Research Assistant",
+          "employer": "",
+          "location": "",
+          "salary": "",
+          "url": "https://www.jobs.ac.uk/job/DSX193/research-assistant"
+        },
         {
           "title": "Technical Stage Manager (Live Performance)",
           "employer": "",
           "location": "",
           "salary": "",
           "url": "https://www.jobs.ac.uk/job/DSN693/technical-stage-manager-live-performance"
+        },
+        {
+          "title": "Lecturer in Digital and Immersive Storytelling",
+          "employer": "",
+          "location": "",
+          "salary": "",
+          "url": "https://www.jobs.ac.uk/job/DSX390/lecturer-in-digital-and-immersive-storytelling"
         },
         {
           "title": "Lecturer in Real Estate - 12 month maternity cover contract role",
@@ -18,7 +32,7 @@
           "url": "https://www.jobs.ac.uk/job/DSV020/lecturer-in-real-estate-12-month-maternity-cover-contract-role"
         }
       ],
-      "count": 2,
+      "count": 4,
       "search_url": "https://www.jobs.ac.uk/search/?keywords=learning+technologist"
     }
   }
