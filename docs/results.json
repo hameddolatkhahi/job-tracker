@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T12:21:46.703805+00:00",
+  "updated_at": "2026-09-18T12:00:53.807287+00:00",
   "keywords": {
     "learning technologist": {
       "jobs": [
@@ -9,6 +9,13 @@
           "location": "",
           "salary": "",
           "url": "https://www.jobs.ac.uk/job/DSX726/fmhs-senior-lecturer-academic-learning-technologist"
+        },
+        {
+          "title": "Senior Technologist - Birkbeck Centre for Creative AI",
+          "employer": "",
+          "location": "",
+          "salary": "",
+          "url": "https://www.jobs.ac.uk/job/DSZ053/senior-technologist-birkbeck-centre-for-creative-ai"
         },
         {
           "title": "Research Assistant",
@@ -32,7 +39,7 @@
           "url": "https://www.jobs.ac.uk/job/DSV020/lecturer-in-real-estate-12-month-maternity-cover-contract-role"
         }
       ],
-      "count": 4,
+      "count": 5,
       "search_url": "https://www.jobs.ac.uk/search/?keywords=learning+technologist"
     }
   }
