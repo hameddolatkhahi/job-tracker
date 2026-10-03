@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T13:28:08.514541+00:00",
+  "updated_at": "2026-10-03T12:10:43.929707+00:00",
   "keywords": {
     "learning technologist": {
       "jobs": [
@@ -23,16 +23,9 @@
           "location": "",
           "salary": "",
           "url": "https://www.jobs.ac.uk/job/DSX390/lecturer-in-digital-and-immersive-storytelling"
-        },
-        {
-          "title": "Lecturer in Real Estate - 12 month maternity cover contract role",
-          "employer": "",
-          "location": "",
-          "salary": "",
-          "url": "https://www.jobs.ac.uk/job/DSV020/lecturer-in-real-estate-12-month-maternity-cover-contract-role"
         }
       ],
-      "count": 4,
+      "count": 3,
       "search_url": "https://www.jobs.ac.uk/search/?keywords=learning+technologist"
     }
   }
