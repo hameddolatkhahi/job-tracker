@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T12:59:46.198296+00:00",
+  "updated_at": "2026-10-05T15:28:40.592176+00:00",
   "keywords": {
     "learning technologist": {
       "jobs": [
@@ -11,13 +11,6 @@
           "url": "https://www.jobs.ac.uk/job/DSZ053/senior-technologist-birkbeck-centre-for-creative-ai"
         },
         {
-          "title": "Research Assistant",
-          "employer": "",
-          "location": "",
-          "salary": "",
-          "url": "https://www.jobs.ac.uk/job/DSX193/research-assistant"
-        },
-        {
           "title": "Lecturer in Digital and Immersive Storytelling",
           "employer": "",
           "location": "",
@@ -25,7 +18,7 @@
           "url": "https://www.jobs.ac.uk/job/DSX390/lecturer-in-digital-and-immersive-storytelling"
         }
       ],
-      "count": 3,
+      "count": 2,
       "search_url": "https://www.jobs.ac.uk/search/?keywords=learning+technologist"
     }
   }
