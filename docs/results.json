@@ -1,9 +1,17 @@
 {
-  "updated_at": "2026-10-19T14:15:32.848705+00:00",
+  "updated_at": "2026-10-20T12:28:35.203472+00:00",
   "keywords": {
     "learning technologist": {
-      "jobs": [],
-      "count": 0,
+      "jobs": [
+        {
+          "title": "Learning Technologist",
+          "employer": "",
+          "location": "",
+          "salary": "",
+          "url": "https://www.jobs.ac.uk/job/DTI374/learning-technologist"
+        }
+      ],
+      "count": 1,
       "search_url": "https://www.jobs.ac.uk/search/?keywords=learning+technologist"
     }
   }
