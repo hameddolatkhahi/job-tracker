@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T12:28:35.203472+00:00",
+  "updated_at": "2026-10-21T12:38:33.231924+00:00",
   "keywords": {
     "learning technologist": {
       "jobs": [
@@ -9,9 +9,16 @@
           "location": "",
           "salary": "",
           "url": "https://www.jobs.ac.uk/job/DTI374/learning-technologist"
+        },
+        {
+          "title": "Tutor (Research) - Artificial Intelligence and Digital Art (1FTE)",
+          "employer": "",
+          "location": "",
+          "salary": "",
+          "url": "https://www.jobs.ac.uk/job/DTI979/tutor-research-artificial-intelligence-and-digital-art-1fte"
         }
       ],
-      "count": 1,
+      "count": 2,
       "search_url": "https://www.jobs.ac.uk/search/?keywords=learning+technologist"
     }
   }
