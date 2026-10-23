@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T12:43:16.375098+00:00",
+  "updated_at": "2026-10-23T12:20:50.177022+00:00",
   "keywords": {
     "learning technologist": {
       "jobs": [
@@ -16,9 +16,23 @@
           "location": "",
           "salary": "",
           "url": "https://www.jobs.ac.uk/job/DTI979/tutor-research-artificial-intelligence-and-digital-art-1fte"
+        },
+        {
+          "title": "Quantum Applications Engineer",
+          "employer": "",
+          "location": "",
+          "salary": "",
+          "url": "https://www.jobs.ac.uk/job/DTJ717/quantum-applications-engineer"
+        },
+        {
+          "title": "Senior Quantum Applications Engineer",
+          "employer": "",
+          "location": "",
+          "salary": "",
+          "url": "https://www.jobs.ac.uk/job/DTJ738/senior-quantum-applications-engineer"
         }
       ],
-      "count": 2,
+      "count": 4,
       "search_url": "https://www.jobs.ac.uk/search/?keywords=learning+technologist"
     }
   }
