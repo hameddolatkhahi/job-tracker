@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T13:44:22.129344+00:00",
+  "updated_at": "2026-10-29T13:53:15.016196+00:00",
   "keywords": {
     "learning technologist": {
       "jobs": [
@@ -11,11 +11,25 @@
           "url": "https://www.jobs.ac.uk/job/DTI374/learning-technologist"
         },
         {
+          "title": "Teaching Fellow in Creative Computing and Creative Technologies",
+          "employer": "",
+          "location": "",
+          "salary": "",
+          "url": "https://www.jobs.ac.uk/job/DTL582/teaching-fellow-in-creative-computing-and-creative-technologies"
+        },
+        {
           "title": "Tutor (Research) - Artificial Intelligence and Digital Art (1FTE)",
           "employer": "",
           "location": "",
           "salary": "",
           "url": "https://www.jobs.ac.uk/job/DTI979/tutor-research-artificial-intelligence-and-digital-art-1fte"
+        },
+        {
+          "title": "Senior Teaching Fellow in Creative Computing and Creative Technologies",
+          "employer": "",
+          "location": "",
+          "salary": "",
+          "url": "https://www.jobs.ac.uk/job/DTL553/senior-teaching-fellow-in-creative-computing-and-creative-technologies"
         },
         {
           "title": "Quantum Applications Engineer",
@@ -32,7 +46,7 @@
           "url": "https://www.jobs.ac.uk/job/DTJ738/senior-quantum-applications-engineer"
         }
       ],
-      "count": 4,
+      "count": 6,
       "search_url": "https://www.jobs.ac.uk/search/?keywords=learning+technologist"
     }
   }
