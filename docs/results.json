@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T13:45:49.063488+00:00",
+  "updated_at": "2026-10-31T13:14:29.312720+00:00",
   "keywords": {
     "learning technologist": {
       "jobs": [
@@ -25,6 +25,13 @@
           "url": "https://www.jobs.ac.uk/job/DTI979/tutor-research-artificial-intelligence-and-digital-art-1fte"
         },
         {
+          "title": "Lecturer Digital Fashion",
+          "employer": "",
+          "location": "",
+          "salary": "",
+          "url": "https://www.jobs.ac.uk/job/DTM157/lecturer-digital-fashion"
+        },
+        {
           "title": "Senior Teaching Fellow in Creative Computing and Creative Technologies",
           "employer": "",
           "location": "",
@@ -46,7 +53,7 @@
           "url": "https://www.jobs.ac.uk/job/DTJ738/senior-quantum-applications-engineer"
         }
       ],
-      "count": 6,
+      "count": 7,
       "search_url": "https://www.jobs.ac.uk/search/?keywords=learning+technologist"
     }
   }
