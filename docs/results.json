@@ -1,15 +1,8 @@
 {
-  "updated_at": "2026-11-08T14:00:23.511730+00:00",
+  "updated_at": "2026-11-09T17:03:30.247547+00:00",
   "keywords": {
     "learning technologist": {
       "jobs": [
-        {
-          "title": "Learning Technologist",
-          "employer": "",
-          "location": "",
-          "salary": "",
-          "url": "https://www.jobs.ac.uk/job/DTI374/learning-technologist"
-        },
         {
           "title": "Teaching Fellow in Creative Computing and Creative Technologies",
           "employer": "",
@@ -25,28 +18,21 @@
           "url": "https://www.jobs.ac.uk/job/DTM157/lecturer-digital-fashion"
         },
         {
+          "title": "Interim Studio Manager - Screen, Digital and Design Practices",
+          "employer": "",
+          "location": "",
+          "salary": "",
+          "url": "https://www.jobs.ac.uk/job/DTP006/interim-studio-manager-screen-digital-and-design-practices"
+        },
+        {
           "title": "Senior Teaching Fellow in Creative Computing and Creative Technologies",
           "employer": "",
           "location": "",
           "salary": "",
           "url": "https://www.jobs.ac.uk/job/DTL553/senior-teaching-fellow-in-creative-computing-and-creative-technologies"
-        },
-        {
-          "title": "Quantum Applications Engineer",
-          "employer": "",
-          "location": "",
-          "salary": "",
-          "url": "https://www.jobs.ac.uk/job/DTJ717/quantum-applications-engineer"
-        },
-        {
-          "title": "Senior Quantum Applications Engineer",
-          "employer": "",
-          "location": "",
-          "salary": "",
-          "url": "https://www.jobs.ac.uk/job/DTJ738/senior-quantum-applications-engineer"
         }
       ],
-      "count": 6,
+      "count": 4,
       "search_url": "https://www.jobs.ac.uk/search/?keywords=learning+technologist"
     }
   }
