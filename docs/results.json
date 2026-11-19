@@ -1,38 +1,17 @@
 {
-  "updated_at": "2026-11-18T16:06:24.279318+00:00",
+  "updated_at": "2026-11-19T16:13:44.721399+00:00",
   "keywords": {
     "learning technologist": {
       "jobs": [
-        {
-          "title": "Teaching Fellow in Creative Computing and Creative Technologies",
-          "employer": "",
-          "location": "",
-          "salary": "",
-          "url": "https://www.jobs.ac.uk/job/DTL582/teaching-fellow-in-creative-computing-and-creative-technologies"
-        },
-        {
-          "title": "Lecturer Digital Fashion",
-          "employer": "",
-          "location": "",
-          "salary": "",
-          "url": "https://www.jobs.ac.uk/job/DTM157/lecturer-digital-fashion"
-        },
         {
           "title": "Interim Studio Manager - Screen, Digital and Design Practices",
           "employer": "",
           "location": "",
           "salary": "",
           "url": "https://www.jobs.ac.uk/job/DTP006/interim-studio-manager-screen-digital-and-design-practices"
-        },
-        {
-          "title": "Senior Teaching Fellow in Creative Computing and Creative Technologies",
-          "employer": "",
-          "location": "",
-          "salary": "",
-          "url": "https://www.jobs.ac.uk/job/DTL553/senior-teaching-fellow-in-creative-computing-and-creative-technologies"
         }
       ],
-      "count": 4,
+      "count": 1,
       "search_url": "https://www.jobs.ac.uk/search/?keywords=learning+technologist"
     }
   }
