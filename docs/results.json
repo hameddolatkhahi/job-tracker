@@ -1,24 +1,9 @@
 {
-  "updated_at": "2026-11-22T14:59:56.935051+00:00",
+  "updated_at": "2026-11-23T18:54:50.010440+00:00",
   "keywords": {
     "learning technologist": {
-      "jobs": [
-        {
-          "title": "Senior Learning Technologist (867541)",
-          "employer": "",
-          "location": "",
-          "salary": "",
-          "url": "https://www.jobs.ac.uk/job/DTS596/senior-learning-technologist-867541"
-        },
-        {
-          "title": "Interim Studio Manager - Screen, Digital and Design Practices",
-          "employer": "",
-          "location": "",
-          "salary": "",
-          "url": "https://www.jobs.ac.uk/job/DTP006/interim-studio-manager-screen-digital-and-design-practices"
-        }
-      ],
-      "count": 2,
+      "jobs": [],
+      "count": 0,
       "search_url": "https://www.jobs.ac.uk/search/?keywords=learning+technologist"
     }
   }
